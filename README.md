@@ -11,7 +11,7 @@ We were given data from an election in Colorado through a csv file.  I created c
 * Jefferson - 10.5% (38,855)
 * Arapaheo - 6.7% (24,801)
 
-### Highest Turnout: Denver (306,055 votes)
+### Highest Turnout- Denver (306,055 votes)
 
 ### Breakdown
 * Diana DeGette - 73.8% (272,892)
