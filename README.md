@@ -25,3 +25,4 @@ We were given data from an election in Colorado through a csv file.  I created c
 
 ## Election-Audit Summary
 Using this code, tallying the results of elections becomes easier than ever.  This code can be used for any county and any candidate.  All that is needed is the raw data from the election.  The code does need to be edited to fit the file name for the raw data from a given election. Specifically, line #9 needs to match the name of the csv file.  Depending on how the user wants the data to be stored in the new file, line 48 and line 51 can be changed to match the preferences of the user. 
+![Screenshot (15)](https://user-images.githubusercontent.com/109995136/185250100-ea05faf4-7dcb-477c-b052-369a91a233bf.png)
